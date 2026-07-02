@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi, I'm Jalal 👋
 
-<!--
-**jalalmr11/jalalmr11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ☁️ About Me
 
-Here are some ideas to get you started:
+I'm an aspiring Cloud Engineer passionate about technology, problem-solving, and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm building a strong foundation in programming, web development, and version control while preparing for a career in Cloud Computing.
+
+I enjoy creating projects, learning new technologies, and improving my skills every day.
+
+---
+
+## 🚀 Currently Learning
+
+- 🌐 HTML5
+- 🎨 CSS3
+- ⚡ JavaScript
+- 🐍 Python
+- ☕ Java
+- 🔧 Git & GitHub
+
+---
+
+## 🎯 Career Goal
+
+My goal is to become a Cloud Engineer and work with modern cloud technologies to build secure, scalable, and reliable applications.
+
+---
+
+## 🛠️ Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- Python
+- Java
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📚 Currently Exploring
+
+- Web Development
+- Programming Fundamentals
+- Version Control
+- Problem Solving
+
+Soon I'll begin learning:
+
+- ☁️ AWS
+- 🐳 Docker
+- ☸️ Kubernetes
+- 🐧 Linux
+- 🧩 Terraform
+- ⚙️ CI/CD
+- ☁️ Microsoft Azure
+
+---
+
+## 📂 Projects
+
+Every repository on this profile represents my learning journey.
+
+I'm committed to improving my skills by building projects and sharing my progress on GitHub.
+
+---
+
+## 🌟 Motto
+
+> "Learn. Build. Improve. Repeat."
+
+Thanks for visiting my profile! 🚀
