@@ -18,6 +18,9 @@ I enjoy creating projects, learning new technologies, and improving my skills ev
 - 🐍 Python
 - ☕ Java
 - 🔧 Git & GitHub
+- Linux(ubuntu
+- Sql
+  
 
 ---
 
@@ -37,6 +40,8 @@ My goal is to become a Cloud Engineer and work with modern cloud technologies to
 - Git
 - GitHub
 - VS Code
+- Ubuntu
+- Sql
 
 ---
 
@@ -46,6 +51,7 @@ My goal is to become a Cloud Engineer and work with modern cloud technologies to
 - Programming Fundamentals
 - Version Control
 - Problem Solving
+- Cloud computing
 
 Soon I'll begin learning:
 
