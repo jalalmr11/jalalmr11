@@ -16,13 +16,13 @@
 
 I'm **Mohamed Jalal**, a Computer Science and Engineering student who enjoys understanding how technology works behind the screen.
 
-I like learning by actually **using tools, working in the terminal, writing scripts, solving problems, and turning what I learn into something practical**.
+I learn by **using tools, working in the terminal, writing scripts, solving problems, and building practical things**.
 
-My current foundation includes **Linux, Ubuntu, Bash, GitHub, Python, SQL, HTML, CSS, and Bootstrap**. These skills have helped me become more comfortable with systems, command-line workflows, programming fundamentals, and web technologies.
+My current foundation includes **Linux, Ubuntu, Bash, Git, GitHub, Python, SQL, HTML, CSS, and Bootstrap**.
 
-I'm especially interested in **Cloud Computing** and gradually exploring **Backend Development** to understand how applications, APIs, databases, servers, and infrastructure connect together.
+I'm especially interested in **Cloud Computing** and gradually exploring **Backend Development** to understand how applications, APIs, databases, servers, networking, and infrastructure connect together.
 
-I want to keep strengthening my fundamentals and build practical experience step by step as I work toward a career in **Cloud Engineering**.
+My long-term direction is **Cloud Engineering**, and I'm building my skills step by step.
 
 ---
 
@@ -120,15 +120,23 @@ I want to keep strengthening my fundamentals and build practical experience step
 
 ## ⚙️ Backend Development
 
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2200&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=APIs+%E2%86%92+Servers+%E2%86%92+Databases;Application+Logic+%E2%86%92+Backend+Systems;Understanding+How+Applications+Work+Behind+the+Scenes" alt="Backend Animation"/>
 
-Exploring how applications work behind the scenes, including **APIs, servers, databases, and application logic**.
+</div>
+
+I'm gradually exploring how applications work behind the scenes, including **APIs, servers, databases, application logic, and backend systems**.
 
 ---
 
 ## ☁️ Cloud Computing
 
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2200&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Infrastructure+%E2%86%92+Deployment+%E2%86%92+Cloud;Servers+%E2%86%92+Networking+%E2%86%92+Cloud+Services;Building+My+Foundation+Step+By+Step" alt="Cloud Animation"/>
+
+</div>
 
 Building my understanding of **cloud concepts, infrastructure, deployment, servers, networking, and cloud services**.
 
@@ -144,47 +152,29 @@ Building my understanding of **cloud concepts, infrastructure, deployment, serve
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Activity
 
 <div align="center">
 
 <a href="https://github.com/jalalmr11">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jalalmr11&show_icons=true&theme=github_dark&hide_border=true" alt="Mohamed Jalal's GitHub Stats"/>
-
+<img src="https://img.shields.io/github/followers/jalalmr11?label=Followers&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers"/>
 </a>
 
-<br><br>
-
-<a href="https://github.com/jalalmr11">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalalmr11&layout=compact&theme=github_dark&hide_border=true" alt="Mohamed Jalal's Top Languages"/>
-
+<a href="https://github.com/jalalmr11?tab=repositories">
+<img src="https://img.shields.io/github/stars/jalalmr11?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars"/>
 </a>
 
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<a href="https://github.com/jalalmr11">
-
-<img src="https://streak-stats.demolab.com/?user=jalalmr11&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak"/>
-
+<a href="https://github.com/jalalmr11?tab=repositories">
+<img src="https://img.shields.io/github/repo-size/jalalmr11/jalalmr11?label=Profile%20Repo&style=for-the-badge&logo=github&logoColor=white" alt="Profile Repository"/>
 </a>
 
 </div>
 
----
-
-# 🐍 Contribution Activity
+<br>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jalalmr11&theme=github-compact&hide_border=true" alt="GitHub Activity Graph"/>
 
 </div>
 
