@@ -170,9 +170,15 @@ Building my understanding of **cloud concepts, infrastructure, deployment, serve
 
 </div>
 
-<br>
+---
 
-> 📌 **Check my GitHub profile for my latest repositories, contributions, and activity.**
+# 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
 
 ---
 
