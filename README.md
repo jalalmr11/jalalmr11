@@ -1,80 +1,235 @@
-# Hi, I'm Jalal 👋
+<div align="center">
 
-## ☁️ About Me
+# 👋 Hey, I'm Mohamed Jalal
 
-I'm an aspiring Cloud Engineer passionate about technology, problem-solving, and continuous learning.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=750&lines=Computer+Science+%26+Engineering+Student;Cloud+Computing+Enthusiast;Backend+Development+Explorer;Python+%7C+Linux+%7C+SQL;Learning+How+Technology+Works+Behind+the+Screen;Learn+%E2%86%92+Build+%E2%86%92+Improve" alt="Typing Animation" />
 
-Currently, I'm building a strong foundation in programming, web development, and version control while preparing for a career in Cloud Computing.
+<br>
 
-I enjoy creating projects, learning new technologies, and improving my skills every day.
+<a href="https://github.com/jalalmr11">
+<img src="https://komarev.com/ghpvc/?username=jalalmr11&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
+</a>
 
----
-
-## 🚀 Currently Learning
-
-- 🌐 HTML5
-- 🎨 CSS3
-- ⚡ JavaScript
-- 🐍 Python
-- ☕ Java
-- 🔧 Git & GitHub
-- Linux(ubuntu
-- Sql
-  
+</div>
 
 ---
 
-## 🎯 Career Goal
+## 👨‍💻 About Me
 
-My goal is to become a Cloud Engineer and work with modern cloud technologies to build secure, scalable, and reliable applications.
+I'm **Mohamed Jalal**, a Computer Science and Engineering student who enjoys understanding how technology works behind the screen.
 
----
+I like learning by actually **using tools, working in the terminal, writing scripts, solving problems, and turning what I learn into something practical**.
 
-## 🛠️ Skills
+My current foundation includes **Linux, Ubuntu, Bash, GitHub, Python, SQL, HTML, CSS, and Bootstrap**. These skills have helped me become more comfortable with systems, command-line workflows, programming fundamentals, and web technologies.
 
-- HTML5
-- CSS3
-- JavaScript
-- Python
-- Java
-- Git
-- GitHub
-- VS Code
-- Ubuntu
-- Sql
+I'm especially interested in **Cloud Computing** and gradually exploring **Backend Development** to understand how applications, APIs, databases, servers, and infrastructure connect together.
+
+I want to keep strengthening my fundamentals and build practical experience step by step as I work toward a career in **Cloud Engineering**.
 
 ---
 
-## 📚 Currently Exploring
+## 🎓 Education & Focus
 
-- Web Development
-- Programming Fundamentals
-- Version Control
-- Problem Solving
-- Cloud computing
+<div align="center">
 
-Soon I'll begin learning:
+|          🎓 Education          | ☁️ Technical Focus |     🔭 Exploring    |       🚀 Approach       |
+| :----------------------------: | :----------------: | :-----------------: | :---------------------: |
+| Computer Science & Engineering |   Cloud Computing  | Backend Development | Learn · Build · Improve |
 
-- ☁️ AWS
-- 🐳 Docker
-- ☸️ Kubernetes
-- 🐧 Linux
-- 🧩 Terraform
-- ⚙️ CI/CD
-- ☁️ Microsoft Azure
+</div>
 
 ---
 
-## 📂 Projects
+# 🛠️ Technical Skills
 
-Every repository on this profile represents my learning journey.
+## 🐧 Linux & Systems
 
-I'm committed to improving my skills by building projects and sharing my progress on GitHub.
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" alt="Linux"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="50" alt="Ubuntu"/>
+</p>
+
+**Linux / Ubuntu**
+
+`OS Navigation` · `Terminal Operations` · `System Fundamentals`
 
 ---
 
-## 🌟 Motto
+## 💻 Programming & Scripting
 
-> "Learn. Build. Improve. Repeat."
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" alt="Python"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50" alt="Bash"/>
+</p>
 
-Thanks for visiting my profile! 🚀
+**Python**
+
+`Programming Fundamentals` · `Logic` · `Problem Solving`
+
+**Bash**
+
+`Shell Scripting` · `Command-Line Automation`
+
+---
+
+## 🌐 Web Development
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50" alt="Bootstrap"/>
+</p>
+
+**HTML** · `Semantic Structure` · `Web Markup`
+
+**CSS** · `Responsive Layouts` · `Custom Styling`
+
+**Bootstrap** · `UI Components` · `Grid System`
+
+---
+
+## 🗄️ Database
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/>
+</p>
+
+**SQL**
+
+`Relational Queries` · `Data Management Fundamentals`
+
+---
+
+## 🔧 Version Control
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" alt="Git"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" alt="GitHub"/>
+</p>
+
+**Git & GitHub**
+
+`Version Control` · `Repository Management` · `Collaboration`
+
+---
+
+# ☁️ What I'm Exploring
+
+## ⚙️ Backend Development
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=800&color=58A6FF&width=700&lines=APIs+%E2%86%92+Servers+%E2%86%92+Databases;Application+Logic+%E2%86%92+Backend+Systems;Understanding+How+Applications+Work+Behind+the+Scenes" alt="Backend Animation"/>
+
+Exploring how applications work behind the scenes, including **APIs, servers, databases, and application logic**.
+
+---
+
+## ☁️ Cloud Computing
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=800&color=58A6FF&width=700&lines=Infrastructure+%E2%86%92+Deployment+%E2%86%92+Cloud;Servers+%E2%86%92+Networking+%E2%86%92+Cloud+Services;Building+My+Foundation+Step+By+Step" alt="Cloud Animation"/>
+
+Building my understanding of **cloud concepts, infrastructure, deployment, servers, networking, and cloud services**.
+
+---
+
+# 🧭 Learning Path
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=1800&pause=600&color=58A6FF&center=true&vCenter=true&width=750&lines=Linux+%26+Systems;Python+Programming;Web+Fundamentals;SQL+%26+Databases;Backend+Development;Cloud+Computing;Cloud+Engineering" alt="Learning Path"/>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=🐍+Python;⚙️+Backend+Development;☁️+Cloud+Computing;🐧+Linux;🗄️+SQL;🌐+APIs+%26+Web+Technologies" alt="Currently Learning"/>
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jalalmr11&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="180" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalalmr11&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Top Languages"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=jalalmr11&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 🌱 Philosophy
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Learn+%E2%86%92+Build+%E2%86%92+Improve;Understand+%E2%86%92+Practice+%E2%86%92+Grow;Keep+Learning.;Keep+Building." alt="Philosophy"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/jalalmr11">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jalalmr/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://jalaljl-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="mailto:jalalmoh1179@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://www.instagram.com/mhmd_jalal._">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 👋 Thanks for visiting my profile!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Always+Learning;Always+Building;Always+Improving" alt="Footer Animation"/>
+
+</div>
