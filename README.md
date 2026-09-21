@@ -69,25 +69,11 @@ I'm building my understanding of **infrastructure**, **servers**, **networking**
 
 ---
 
-## 📈 My Learning Path
+## 📊 GitHub Contribution Board
 
 <div align="center">
 
-```
-Linux & Systems
-      ↓
-Python Programming
-      ↓
-Web Fundamentals (HTML, CSS, Bootstrap)
-      ↓
-SQL & Databases
-      ↓
-Backend Development
-      ↓
-Cloud Computing
-      ↓
-☁️ Cloud Engineering
-```
+[![Jalal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jalalmr11&bg_color=1e1e2e&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/jalalmr11)
 
 </div>
 
