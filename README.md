@@ -2,13 +2,11 @@
 
 # 👋 Hey, I'm Mohamed Jalal
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=750&lines=Computer+Science+%26+Engineering+Student;Cloud+Computing+Enthusiast;Backend+Development+Explorer;Python+%7C+Linux+%7C+SQL;Learning+How+Technology+Works+Behind+the+Screen;Learn+%E2%86%92+Build+%E2%86%92+Improve" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=750&lines=Computer+Science+%26+Engineering+Student;Cloud+Computing+Enthusiast;Backend+Development+Explorer;Python+%7C+Linux+%7C+SQL;Learning+How+Technology+Works+Behind+the+Screen;Learn+%E2%86%92+Build+%E2%86%92+Improve" alt="Typing Animation"/>
 
 <br>
 
-<a href="https://github.com/jalalmr11">
 <img src="https://komarev.com/ghpvc/?username=jalalmr11&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
-</a>
 
 </div>
 
@@ -122,7 +120,7 @@ I want to keep strengthening my fundamentals and build practical experience step
 
 ## ⚙️ Backend Development
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=800&color=58A6FF&width=700&lines=APIs+%E2%86%92+Servers+%E2%86%92+Databases;Application+Logic+%E2%86%92+Backend+Systems;Understanding+How+Applications+Work+Behind+the+Scenes" alt="Backend Animation"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2200&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=APIs+%E2%86%92+Servers+%E2%86%92+Databases;Application+Logic+%E2%86%92+Backend+Systems;Understanding+How+Applications+Work+Behind+the+Scenes" alt="Backend Animation"/>
 
 Exploring how applications work behind the scenes, including **APIs, servers, databases, and application logic**.
 
@@ -130,7 +128,7 @@ Exploring how applications work behind the scenes, including **APIs, servers, da
 
 ## ☁️ Cloud Computing
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=800&color=58A6FF&width=700&lines=Infrastructure+%E2%86%92+Deployment+%E2%86%92+Cloud;Servers+%E2%86%92+Networking+%E2%86%92+Cloud+Services;Building+My+Foundation+Step+By+Step" alt="Cloud Animation"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2200&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Infrastructure+%E2%86%92+Deployment+%E2%86%92+Cloud;Servers+%E2%86%92+Networking+%E2%86%92+Cloud+Services;Building+My+Foundation+Step+By+Step" alt="Cloud Animation"/>
 
 Building my understanding of **cloud concepts, infrastructure, deployment, servers, networking, and cloud services**.
 
@@ -140,17 +138,7 @@ Building my understanding of **cloud concepts, infrastructure, deployment, serve
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=1800&pause=600&color=58A6FF&center=true&vCenter=true&width=750&lines=Linux+%26+Systems;Python+Programming;Web+Fundamentals;SQL+%26+Databases;Backend+Development;Cloud+Computing;Cloud+Engineering" alt="Learning Path"/>
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=🐍+Python;⚙️+Backend+Development;☁️+Cloud+Computing;🐧+Linux;🗄️+SQL;🌐+APIs+%26+Web+Technologies" alt="Currently Learning"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&duration=1800&pause=600&color=58A6FF&center=true&vCenter=true&width=750&lines=Linux+%26+Systems;Python+Programming;Web+Fundamentals;SQL+%26+Databases;Backend+Development;Cloud+Computing;Cloud+Engineering" alt="Learning Path"/>
 
 </div>
 
@@ -160,9 +148,19 @@ Building my understanding of **cloud concepts, infrastructure, deployment, serve
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jalalmr11&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="180" alt="GitHub Stats"/>
+<a href="https://github.com/jalalmr11">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalalmr11&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jalalmr11&show_icons=true&theme=github_dark&hide_border=true" alt="Mohamed Jalal's GitHub Stats"/>
+
+</a>
+
+<br><br>
+
+<a href="https://github.com/jalalmr11">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalalmr11&layout=compact&theme=github_dark&hide_border=true" alt="Mohamed Jalal's Top Languages"/>
+
+</a>
 
 </div>
 
@@ -172,7 +170,11 @@ Building my understanding of **cloud concepts, infrastructure, deployment, serve
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=jalalmr11&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+<a href="https://github.com/jalalmr11">
+
+<img src="https://streak-stats.demolab.com/?user=jalalmr11&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</a>
 
 </div>
 
@@ -192,7 +194,7 @@ Building my understanding of **cloud concepts, infrastructure, deployment, serve
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Learn+%E2%86%92+Build+%E2%86%92+Improve;Understand+%E2%86%92+Practice+%E2%86%92+Grow;Keep+Learning.;Keep+Building." alt="Philosophy"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Learn+%E2%86%92+Build+%E2%86%92+Improve;Understand+%E2%86%92+Practice+%E2%86%92+Grow;Keep+Learning;Keep+Building" alt="Philosophy Animation"/>
 
 </div>
 
@@ -230,6 +232,6 @@ Building my understanding of **cloud concepts, infrastructure, deployment, serve
 
 ### 👋 Thanks for visiting my profile!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Always+Learning;Always+Building;Always+Improving" alt="Footer Animation"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Always+Learning;Always+Building;Always+Improving" alt="Footer Animation"/>
 
 </div>
