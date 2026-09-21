@@ -165,18 +165,14 @@ Building my understanding of **cloud concepts, infrastructure, deployment, serve
 </a>
 
 <a href="https://github.com/jalalmr11?tab=repositories">
-<img src="https://img.shields.io/github/repo-size/jalalmr11/jalalmr11?label=Profile%20Repo&style=for-the-badge&logo=github&logoColor=white" alt="Profile Repository"/>
+<img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories"/>
 </a>
 
 </div>
 
 <br>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jalalmr11&theme=github-compact&hide_border=true" alt="GitHub Activity Graph"/>
-
-</div>
+> 📌 **Check my GitHub profile for my latest repositories, contributions, and activity.**
 
 ---
 
